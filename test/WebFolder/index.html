@@ -7,12 +7,44 @@
 	<meta name="wakanda-version" content="2.0 build 2.112650"/>
 		<meta name="wakanda-build" content="2.112650"/>
 		<meta name="WAF.config.loadCSS" id="waf-palette" content="/walib/WAF/widget/palette/css/widget-palette-default.css"/>
+		<meta name="WAF.config.datasources" data-type="dataSource" data-source-type="dataClass" data-source="User" data-lib="WAF" data-id="user" data-dataType="string" data-autoLoad="true" content="user"/>
 		<meta name="WAF.config.loadCSS" id="waf-interface-css" content="styles/index.css"/>
 		<meta name="WAF.config.loadCSS" id="waf-project-css" content="/application.css"/>
 </head>
 
 <body id="waf-body" data-viewport-width="device-width" data-viewport-minimum-scale="1.0" data-viewport-maximum-scale="1.0" data-viewport-initial-scale="1.0" data-type="document" data-theme="default" data-rpc-validation="false" data-rpc-namespace="rpc" data-rpc-activate="false" data-platform="desktop" data-lib="WAF" data-apple-meta-tags-status-bar="default" class="default" style="visibility:hidden;">
-			<div id="richText1" data-type="richText" data-target="_blank" data-plainText="true" data-overflow="Hidden" data-lib="WAF" data-label-position="left" data-label="" data-constraint-top="true" data-constraint-left="true" data-autoWidth="false" class="waf-widget waf-richText default inherited  ">test</div>
+	<div id="container1" data-type="container" data-lib="WAF" class="waf-widget waf-container default inherited  ">
+	 	<button id="button1" data-type="button" data-text="Se connecter" data-target="_blank" data-lib="WAF" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" data-binding="user" data-action="simple" class="waf-widget waf-button default inherited  "></button>
+ 		<input type="text" id="textField1" data-type="textField" data-password="false" data-multiline="false" data-lib="WAF" data-label-position="left" data-label="Mot Passe" data-datapicker-on="true" data-datapicker-icon-only="false" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" data-binding="user.password" class="waf-widget waf-textField default inherited  "/>
+ 		<label id="label1" for="textField1" data-valign="middle" data-type="label" data-margin="5" data-lib="WAF" data-constraint-top="true" data-constraint-left="true" class="waf-widget waf-label default inherited       waf-label-textField ">Mot Passe</label>
+ 	
+ 		<input type="text" id="textField2" data-type="textField" data-password="false" data-multiline="false" data-lib="WAF" data-label-position="left" data-label="Email" data-datapicker-on="true" data-datapicker-icon-only="false" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" data-binding="user.email" class="waf-widget waf-textField default inherited  "/>
+ 		<label id="label2" for="textField2" data-valign="middle" data-type="label" data-margin="5" data-lib="WAF" data-constraint-top="true" data-constraint-right="false" data-constraint-left="true" data-constraint-bottom="false" class="waf-widget waf-label default inherited       waf-label-textField ">Email</label>
+ 	</div>
+		<div id="richText1" data-type="richText" data-lib="WAF" class="waf-widget waf-richText default inherited  " data-autoWidth="false" data-label-position="left" data-target="_blank" data-overflow="Hidden" data-plainText="true" data-label="">Suivie Minceur</div>
+		<div id="container2" data-type="container" data-lib="WAF" class="waf-widget waf-container default inherited  " data-constraint-left="true" data-constraint-top="true">
+ 		<input id="textField3" data-type="textField" data-lib="WAF" type="text" data-binding="user.nom" class="waf-widget waf-textField default inherited  " data-label="nom" data-label-position="left" data-multiline="false" data-password="false" data-datapicker-on="true" data-datapicker-icon-only="false" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false"/>
+ 		<label id="label3" data-type="label" data-lib="WAF" for="textField3" data-valign="middle" data-margin="5" class="waf-widget waf-label default inherited    waf-label-textField " data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false">nom</label>
+ 	
+ 		<input id="textField4" data-type="textField" data-lib="WAF" type="text" data-binding="user.prenom" class="waf-widget waf-textField default inherited  " data-label="prenom" data-label-position="left" data-multiline="false" data-password="false" data-datapicker-on="true" data-datapicker-icon-only="false" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false"/>
+ 		<label id="label4" data-type="label" data-lib="WAF" for="textField4" data-valign="middle" data-margin="5" class="waf-widget waf-label default inherited    waf-label-textField " data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false">prenom</label>
+ 	
+ 		<input id="textField5" data-type="textField" data-lib="WAF" type="text" data-binding="user.email" class="waf-widget waf-textField default inherited  " data-label="email" data-label-position="left" data-multiline="false" data-password="false" data-datapicker-on="true" data-datapicker-icon-only="false" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false"/>
+ 		<label id="label5" data-type="label" data-lib="WAF" for="textField5" data-valign="middle" data-margin="5" class="waf-widget waf-label default inherited    waf-label-textField " data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false">email</label>
+ 	
+ 		<input id="textField6" data-type="textField" data-lib="WAF" type="text" data-binding="user.password" class="waf-widget waf-textField default inherited  " data-label="password" data-label-position="left" data-multiline="false" data-password="false" data-datapicker-on="true" data-datapicker-icon-only="false" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false"/>
+ 		<label id="label6" data-type="label" data-lib="WAF" for="textField6" data-valign="middle" data-margin="5" class="waf-widget waf-label default inherited    waf-label-textField " data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false">password</label>
+ 		<button id="button2" data-type="button" data-lib="WAF" class="waf-widget waf-button default inherited  " data-action="simple" data-target="_blank" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false" data-text="S'enregistrer" data-binding="user"></button>
+ 	</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
 		<script type="text/javascript" src="/waLib/WAF/Loader.js"></script>
-</body>
+	</body>
 </html>

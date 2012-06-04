@@ -3,15 +3,202 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
-#richText1 {
-	 width: 116px;
-	 height: 32px;
-	 top: 176px;
-	 left: 304px;
+#container1 {
+	 width: 1024px;
+	 height: 80px;
+	 top: 21px;
+	 left: 22px;
 	
 	 position: absolute;
-	 font-size: 30px;
+	 background-color: rgb(255, 170, 255);
+	 
+}
+
+#container1 #button1 {
+	 width: 92px;
+	 height: 22px;
+	 top: 22px;
+	 left: 918px;
+	
+	 position: absolute;
+	 
+}
+
+#label1 {
+	 width: 52px;
+	 height: 16px;
+	 top: 26px;
+	 left: 711px;
+	
+	 position: absolute;
+	 
+}
+
+#container1 #textField1 {
+	 width: 139px;
+	 height: 22px;
+	 top: 23px;
+	 left: 768px;
+	
+	 position: absolute;
+	 
+}
+
+#container1 #label2 {
+	 width: 27px;
+	 height: 16px;
+	 top: 28px;
+	 left: 499px;
+	
+	 position: absolute;
+	 
+}
+
+#container1 #textField2 {
+	 width: 139px;
+	 height: 22px;
+	 top: 25px;
+	 left: 531px;
+	
+	 position: absolute;
+	 
+}
+
+#container1 #textField2 #container1 {
+	 width: 1024px;
+	 height: 80px;
+	 top: 21px;
+	 left: 22px;
+	
+	 position: absolute;
+	 
+}
+
+#label2 {
+	 width: 27px;
+	 height: 16px;
+	 top: 28px;
+	 left: 499px;
+	
+	 position: absolute;
+	 
+}
+
+#richText1 {
+	 width: 163px;
+	 height: 35px;
+	 top: 38px;
+	 left: 50px;
+	
+	 position: absolute;
+	 font-size: 20px;
 	 font-weight: bold;
+	 color: rgb(255, 0, 127);
+	 text-shadow: rgb(255, 255, 255) -1px 1px 2px;
+	 
+}
+
+#container2 {
+	 width: 390px;
+	 height: 278px;
+	 top: 214px;
+	 left: 286px;
+	
+	 position: absolute;
+	 
+}
+
+#container2 #label3 {
+	 width: 75px;
+	 height: 15px;
+	 top: 23.5px;
+	 left: 15px;
+	
+	 position: absolute;
+	 min-width: 75px;
+	 
+}
+
+#container2 #textField3 {
+	 width: 130px;
+	 height: 22px;
+	 top: 20px;
+	 left: 95px;
+	
+	 position: absolute;
+	 
+}
+
+#container2 #label4 {
+	 width: 75px;
+	 height: 15px;
+	 top: 65.5px;
+	 left: 15px;
+	
+	 position: absolute;
+	 min-width: 75px;
+	 
+}
+
+#container2 #textField4 {
+	 width: 130px;
+	 height: 22px;
+	 top: 62px;
+	 left: 95px;
+	
+	 position: absolute;
+	 
+}
+
+#container2 #label5 {
+	 width: 75px;
+	 height: 15px;
+	 top: 107.5px;
+	 left: 15px;
+	
+	 position: absolute;
+	 min-width: 75px;
+	 
+}
+
+#container2 #textField5 {
+	 width: 130px;
+	 height: 22px;
+	 top: 104px;
+	 left: 95px;
+	
+	 position: absolute;
+	 
+}
+
+#container2 #label6 {
+	 width: 75px;
+	 height: 15px;
+	 top: 149.5px;
+	 left: 15px;
+	
+	 position: absolute;
+	 min-width: 75px;
+	 
+}
+
+#container2 #textField6 {
+	 width: 130px;
+	 height: 22px;
+	 top: 146px;
+	 left: 95px;
+	
+	 position: absolute;
+	 
+}
+
+#container2 #button2 {
+	 width: 220px;
+	 height: 34px;
+	 top: 212px;
+	 left: 89px;
+	
+	 position: absolute;
 	 
 }
 
