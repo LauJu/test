@@ -128,3 +128,29 @@
 2012-06-04 21:39:07 [com.wakanda-software.test.ServerAdmin] INFO - Database closed (duration: 427 ms)
 2012-06-04 21:39:07 [com.wakanda-software.test.ServerAdmin] INFO - Project closed (duration: 451 ms)
 2012-06-04 21:39:08 [com.wakanda-software.test] INFO - Solution closed (duration: 1376 ms)
+2012-06-04 23:00:02 [com.wakanda-software.test] INFO - Opening the solution
+2012-06-04 23:00:02 [com.wakanda-software.test] INFO - Opening the users and groups directory
+2012-06-04 23:00:02 [com.wakanda-software.test] INFO - Users and groups directory opened (duration: 23 ms)
+2012-06-04 23:00:02 [com.wakanda-software.test.test] INFO - Opening the project
+2012-06-04 23:00:02 [com.wakanda-software.test.test] INFO - Opening the database
+2012-06-04 23:00:02 [com.wakanda-software.test.test] INFO - Database opened (duration: 11 ms)
+2012-06-04 23:00:02 [com.wakanda-software.test.test] INFO - Project opened (duration: 17 ms)
+2012-06-04 23:00:02 [com.wakanda-software.test.ServerAdmin] INFO - Opening the project
+2012-06-04 23:00:02 [com.wakanda-software.test.ServerAdmin] INFO - Opening the database
+2012-06-04 23:00:02 [com.wakanda-software.test.ServerAdmin] INFO - Database opened (duration: 7 ms)
+2012-06-04 23:00:02 [com.wakanda-software.test.ServerAdmin] INFO - Project opened (duration: 8 ms)
+2012-06-04 23:00:02 [com.wakanda-software.test] INFO - Solution opened (duration: 104 ms)
+2012-06-04 23:00:02 [com.wakanda-software.test] INFO - Starting the solution
+2012-06-04 23:00:02 [com.wakanda-software.test.test] INFO - Starting the project
+2012-06-04 23:00:02 [com.wakanda-software.test.test] INFO - Starting the HTTP server
+2012-06-04 23:00:03 [com.wakanda-software.test.test] INFO - HTTP server started (duration: 25 ms)
+2012-06-04 23:00:03 [com.wakanda-software.test.test] INFO - Project started (duration: 49 ms)
+2012-06-04 23:00:03 [com.wakanda-software.test.ServerAdmin] INFO - Starting the project
+2012-06-04 23:00:03 [com.wakanda-software.test.ServerAdmin] INFO - Starting the HTTP server
+2012-06-04 23:00:03 [com.wakanda-software.test.ServerAdmin] INFO - HTTP server started (duration: 38 ms)
+2012-06-04 23:00:03 [com.wakanda-software.test.ServerAdmin] INFO - Project started (duration: 61 ms)
+2012-06-04 23:00:03 [com.wakanda-software.test.test] INFO - Executing the bootstrap(s)
+2012-06-04 23:00:03 [com.wakanda-software.test.test] INFO - Bootstrap(s) executed (duration: 0 ms)
+2012-06-04 23:00:03 [com.wakanda-software.test.ServerAdmin] INFO - Executing the bootstrap(s)
+2012-06-04 23:00:03 [com.wakanda-software.test.ServerAdmin] INFO - Bootstrap(s) executed (duration: 9 ms)
+2012-06-04 23:00:03 [com.wakanda-software.test] INFO - Solution started (duration: 122 ms)
