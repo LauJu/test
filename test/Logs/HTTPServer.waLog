@@ -25,3 +25,18 @@
 127.0.0.1 "WASID=281A37CB42F4364696430D93FAA6A500" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0" - GET 127.0.0.1 /application.css - /application.css 2012-06-04 19:38:55 19:38:55
 127.0.0.1 "WASID=281A37CB42F4364696430D93FAA6A500" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0" - GET 127.0.0.1 /rest/$catalog/$all/ - /rest/$catalog/$all/ 2012-06-04 19:38:56 19:38:56
 127.0.0.1 "WASID=A14798719C3CF441A4CEE1145255FFE6" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0" - GET 127.0.0.1 /rest/User/?$top=40&$params='[]'&$method=entityset&$timeout=300&$savedfilter='$all' $top=40&$params='[]'&$method=entityset&$timeout=300&$savedfilter='$all' /rest/User/ 2012-06-04 19:38:56 19:38:56
+#Version: 1.0
+#Software: Wakanda/2.0 build 2.112650 (Windows-x64)
+#Date: 2012-06-05 08:11:18
+#Remark: format ELF
+#Fields: C-IP CS(COOKIE) CS(HOST) CS(REFERER) CS(USER-AGENT) USER METHOD CS-SIP CS-URI CS-URI-QUERY CS-URI-STEM DATE TIME
+127.0.0.1 "" "127.0.0.1:8081" "" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0" - GET 127.0.0.1 /index.html - /index.html 2012-06-05 06:11:18 06:11:18
+127.0.0.1 "" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0" - GET 127.0.0.1 /index.html - /index.html 2012-06-05 06:11:18 06:11:18
+127.0.0.1 "" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0" - GET 127.0.0.1 /styles/index.css - /styles/index.css 2012-06-05 06:11:18 06:11:18
+127.0.0.1 "" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0" - GET 127.0.0.1 /application.css - /application.css 2012-06-05 06:11:18 06:11:18
+127.0.0.1 "" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0" - GET 127.0.0.1 /rest/$catalog/$all/ - /rest/$catalog/$all/ 2012-06-05 06:11:21 06:11:21
+127.0.0.1 "WASID=191778347FB18A41BB800FE400E285AC" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0" - GET 127.0.0.1 /rest/User/?$top=40&$params='[]'&$method=entityset&$timeout=300&$savedfilter='$all' $top=40&$params='[]'&$method=entityset&$timeout=300&$savedfilter='$all' /rest/User/ 2012-06-05 06:11:21 06:11:21
+127.0.0.1 "WASID=191778347FB18A41BB800FE400E285AC" "127.0.0.1:8081" "" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0" - GET 127.0.0.1 /index.html - /index.html 2012-06-05 06:13:26 06:13:26
+127.0.0.1 "WASID=191778347FB18A41BB800FE400E285AC" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0" - GET 127.0.0.1 /styles/index.css - /styles/index.css 2012-06-05 06:13:26 06:13:26
+127.0.0.1 "WASID=191778347FB18A41BB800FE400E285AC" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0" - GET 127.0.0.1 /rest/$catalog/$all/ - /rest/$catalog/$all/ 2012-06-05 06:13:26 06:13:26
+127.0.0.1 "WASID=191778347FB18A41BB800FE400E285AC" "127.0.0.1:8081" "http://127.0.0.1:8081/index.html" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0" - GET 127.0.0.1 /rest/User/?$top=40&$params='[]'&$method=entityset&$timeout=300&$savedfilter='$all' $top=40&$params='[]'&$method=entityset&$timeout=300&$savedfilter='$all' /rest/User/ 2012-06-05 06:13:27 06:13:27
