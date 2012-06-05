@@ -154,3 +154,19 @@
 2012-06-05 08:10:03 [com.wakanda-software.test.ServerAdmin] INFO - Executing the bootstrap(s)
 2012-06-05 08:10:03 [com.wakanda-software.test.ServerAdmin] INFO - Bootstrap(s) executed (duration: 20 ms)
 2012-06-05 08:10:03 [com.wakanda-software.test] INFO - Solution started (duration: 325 ms)
+2012-06-05 08:15:36 [com.wakanda-software.test] INFO - Stopping the solution
+2012-06-05 08:15:36 [com.wakanda-software.test.test] INFO - Stopping the project
+2012-06-05 08:15:38 [com.wakanda-software.test.test] INFO - Project stopped (duration: 2077 ms)
+2012-06-05 08:15:38 [com.wakanda-software.test.ServerAdmin] INFO - Stopping the project
+2012-06-05 08:15:40 [com.wakanda-software.test.ServerAdmin] INFO - Project stopped (duration: 2039 ms)
+2012-06-05 08:15:40 [com.wakanda-software.test] INFO - Solution stopped (duration: 4117 ms)
+2012-06-05 08:15:40 [com.wakanda-software.test] INFO - Closing the solution
+2012-06-05 08:15:40 [com.wakanda-software.test.test] INFO - Closing the project
+2012-06-05 08:15:40 [com.wakanda-software.test.test] INFO - Closing the database
+2012-06-05 08:15:41 [com.wakanda-software.test.test] INFO - Database closed (duration: 536 ms)
+2012-06-05 08:15:41 [com.wakanda-software.test.test] INFO - Project closed (duration: 537 ms)
+2012-06-05 08:15:41 [com.wakanda-software.test.ServerAdmin] INFO - Closing the project
+2012-06-05 08:15:41 [com.wakanda-software.test.ServerAdmin] INFO - Closing the database
+2012-06-05 08:15:41 [com.wakanda-software.test.ServerAdmin] INFO - Database closed (duration: 509 ms)
+2012-06-05 08:15:41 [com.wakanda-software.test.ServerAdmin] INFO - Project closed (duration: 585 ms)
+2012-06-05 08:15:42 [com.wakanda-software.test] INFO - Solution closed (duration: 1552 ms)
