@@ -45,10 +45,10 @@
 }
 
 #container1 #label2 {
-	 width: 32px;
-	 height: 15px;
-	 top: 26.5px;
-	 left: 505px;
+	 width: 27px;
+	 height: 16px;
+	 top: 26px;
+	 left: 510px;
 	
 	 position: absolute;
 	 
@@ -75,10 +75,10 @@
 }
 
 #label2 {
-	 width: 32px;
-	 height: 15px;
-	 top: 26.5px;
-	 left: 505px;
+	 width: 27px;
+	 height: 16px;
+	 top: 26px;
+	 left: 510px;
 	
 	 position: absolute;
 	 
@@ -99,8 +99,8 @@
 }
 
 #container2 {
-	 width: 514px;
-	 height: 274px;
+	 width: 510px;
+	 height: 312px;
 	 top: 214px;
 	 left: 286px;
 	
@@ -111,8 +111,8 @@
 
 #container2 #label3 {
 	 width: 75px;
-	 height: 15px;
-	 top: 32.5px;
+	 height: 16px;
+	 top: 32px;
 	 left: 15px;
 	
 	 position: absolute;
@@ -135,7 +135,7 @@
 #container2 #label4 {
 	 width: 75px;
 	 height: 15px;
-	 top: 74.5px;
+	 top: 84.5px;
 	 left: 15px;
 	
 	 position: absolute;
@@ -146,7 +146,7 @@
 #container2 #textField4 {
 	 width: 400px;
 	 height: 40px;
-	 top: 62px;
+	 top: 72px;
 	 left: 95px;
 	
 	 position: absolute;
@@ -158,7 +158,7 @@
 #container2 #label5 {
 	 width: 75px;
 	 height: 15px;
-	 top: 116.5px;
+	 top: 136.5px;
 	 left: 15px;
 	
 	 position: absolute;
@@ -169,7 +169,7 @@
 #container2 #textField5 {
 	 width: 400px;
 	 height: 40px;
-	 top: 104px;
+	 top: 124px;
 	 left: 95px;
 	
 	 position: absolute;
@@ -181,7 +181,7 @@
 #container2 #label6 {
 	 width: 75px;
 	 height: 15px;
-	 top: 158.5px;
+	 top: 190.5px;
 	 left: 15px;
 	
 	 position: absolute;
@@ -192,7 +192,7 @@
 #container2 #textField6 {
 	 width: 400px;
 	 height: 40px;
-	 top: 146px;
+	 top: 178px;
 	 left: 95px;
 	
 	 position: absolute;
@@ -204,8 +204,8 @@
 #container2 #button2 {
 	 width: 399px;
 	 height: 45px;
-	 top: 212px;
-	 left: 89px;
+	 top: 242px;
+	 left: 94px;
 	
 	 position: absolute;
 	 background-color: rgb(212, 255, 170);
